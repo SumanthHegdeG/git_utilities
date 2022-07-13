@@ -1,0 +1,93 @@
+ls
+cd
+git init
+git config user.name "sumanthyashu"
+git config user.email "sumanthyashu@gmail.com"
+git remote add origin https://github.com/sumanthyashu/TeacherStudentWOAxios.git
+git remote -v
+git add .
+git commit -m "First commit"
+git branch -M main
+
+git push origin main
+
+
+in case for the first time
+
+
+
+if error:Git error - Fatal: remote origin already exists and how to fix it
+git remote set-url origin https://github.com/sumanthyashu/TeacherStudentWOAxios.git
+
+
+PAT : personal Access Token
+it has to be used for the recent git  access
+
+
+MSLTMKSH02
+ABLPH7057G
+
+
+mongodb+srv://sumanthyashu:Asdfghjkl1!~@mydeployements.9lnou.mongodb.net/?retryWrites=true&w=majority
+
+
+
+
+git init
+git config user.name "SumanthHegdeG"
+git config user.email "sumanthyashu@gmail.com"
+git remote add origin https://github.com/SumanthHegdeG/git_utilities.git
+git remote -v
+git add .
+git commit -m "updated"
+git branch -M main
+
+git push origin main --force
+
+
+in case for the first time
+git config user.name "someone"
+git config user.email "someone@someplace.com"
+
+
+if error:Git error - Fatal: remote origin already exists and how to fix it
+git remote set-url origin https://github.com/your/repository
+
+
+PAT : personal Access Token
+it has to be used for the recent git  access
+
+NODE_ENV = "development"
+PORT = 5000
+MONGO_URI = "mongodb+srv://sumanthyashu:Asdfghjkl1!~@mydeployements.9lnou.mongodb.net/Eco?retryWrites=true&w=majority"
+JWT_SECRET = 'abc123'
+PAYPAL_CLIENT_ID = "AY_l0w3wWlqBpE2vh7A0NN1gru9Zeh4YUQFuo0iZ7Nt7o3o88EyW6VHPPgoVAicWHihHnOxRddqJcPqR"
+
+
+travelhelp@bmrc.co.in
+
+cd mkdir
+
+Monterey:*
+
+sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+
+Big Sur:*
+
+sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+
+Catalina:*
+
+sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+
+Mojave:*
+
+sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+
+High Sierra:*
+
+sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+
+El Capitan:
+
+sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
