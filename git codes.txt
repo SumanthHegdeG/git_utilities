@@ -3,7 +3,7 @@ cd
 git init
 git config user.name "sumanthyashu"
 git config user.email "sumanthyashu@gmail.com"
-git remote add origin https://github.com/sumanthyashu/TeacherStudentWOAxios.git
+git remote add origin https://github.com/SumanthHegdeG/git_utilities.git
 git remote -v
 git add .
 git commit -m "First commit"
@@ -57,6 +57,8 @@ git remote set-url origin https://github.com/your/repository
 PAT : personal Access Token
 it has to be used for the recent git  access
 
+
+
 NODE_ENV = "development"
 PORT = 5000
 MONGO_URI = "mongodb+srv://sumanthyashu:Asdfghjkl1!~@mydeployements.9lnou.mongodb.net/Eco?retryWrites=true&w=majority"
@@ -91,3 +93,13 @@ sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createins
 El Capitan:
 
 sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
+
+
+
+cd "C:\Program Files\Oracle\VirtualBox\"
+VBoxManage.exe modifyvm "Type Your Virtual Machine Name Here" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
+VBoxManage setextradata "Type Your Virtual Machine Name Here" "VBoxInternal/Devices/efi/0/Config/DmiSystemProduct" "iMac11,3"
+VBoxManage setextradata "Type Your Virtual Machine Name Here" "VBoxInternal/Devices/efi/0/Config/DmiSystemVersion" "1.0"
+VBoxManage setextradata "Type Your Virtual Machine Name Here" "VBoxInternal/Devices/efi/0/Config/DmiBoardProduct" "Iloveapple"
+VBoxManage setextradata "Type Your Virtual Machine Name Here" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+VBoxManage setextradata "Type Your Virtual Machine Name Here" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1

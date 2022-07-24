@@ -1,6 +1,5 @@
 {
   "editor.fontSize": 12,
-  "files.autoSave": "off",
   "editor.tabSize": 1,
   "editor.wordWrap": "on",
   "terminal.integrated.fontSize": 12,
@@ -11,6 +10,9 @@
   "prettier.jsxSingleQuote": true,
   "prettier.semi": false,
   "prettier.singleQuote": true,
+  "prettier.printWidth": 100,
+
+  "prettier.trailingComma": "all",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
@@ -20,5 +22,10 @@
   },
   "editor.cursorBlinking": "expand",
   "window.zoomLevel": 1,
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "prettier.vueIndentScriptAndStyle": true,
+  "workbench.iconTheme": "vscode-icons",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
 }
