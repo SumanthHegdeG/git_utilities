@@ -1,6 +1,7 @@
 {
   "editor.fontSize": 12,
   "editor.tabSize": 1,
+  "files.autoSave": "off",
   "editor.wordWrap": "on",
   "terminal.integrated.fontSize": 12,
   "emmet.includeLanguages": {
